@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Vijay_RemoveAddProductButt>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Vijay_RemoveAddProductButt>
+    </modules>
+</config>

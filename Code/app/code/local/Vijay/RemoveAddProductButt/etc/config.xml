@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Vijay_RemoveAddProductButt>
+            <version>1.0.0</version>
+        </Vijay_RemoveAddProductButt>
+    </modules>
+
+    <global>
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <catalog_product>Vijay_RemoveAddProductButt_Block_Adminhtml_Catalog_Product</catalog_product>
+                </rewrite>
+            </adminhtml>
+        </blocks>
+    </global>
+</config>
